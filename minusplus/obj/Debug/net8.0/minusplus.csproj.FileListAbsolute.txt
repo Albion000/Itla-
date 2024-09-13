@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.AssemblyInfo.cs
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\minusplus\bin\Debug\net8.0\minusplus.exe
+C:\Users\admin\source\repos\minusplus\bin\Debug\net8.0\minusplus.deps.json
+C:\Users\admin\source\repos\minusplus\bin\Debug\net8.0\minusplus.runtimeconfig.json
+C:\Users\admin\source\repos\minusplus\bin\Debug\net8.0\minusplus.dll
+C:\Users\admin\source\repos\minusplus\bin\Debug\net8.0\minusplus.pdb
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.dll
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\refint\minusplus.dll
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.pdb
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\minusplus.genruntimeconfig.cache
+C:\Users\admin\source\repos\minusplus\obj\Debug\net8.0\ref\minusplus.dll

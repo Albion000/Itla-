@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Programa condicional\bin\Debug\net8.0\Programa condicional.exe
+C:\Users\admin\source\repos\Programa condicional\bin\Debug\net8.0\Programa condicional.deps.json
+C:\Users\admin\source\repos\Programa condicional\bin\Debug\net8.0\Programa condicional.runtimeconfig.json
+C:\Users\admin\source\repos\Programa condicional\bin\Debug\net8.0\Programa condicional.dll
+C:\Users\admin\source\repos\Programa condicional\bin\Debug\net8.0\Programa condicional.pdb
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.AssemblyInfo.cs
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.dll
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\refint\Programa condicional.dll
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.pdb
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\Programa condicional.genruntimeconfig.cache
+C:\Users\admin\source\repos\Programa condicional\obj\Debug\net8.0\ref\Programa condicional.dll
